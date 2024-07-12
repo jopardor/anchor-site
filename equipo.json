@@ -3,25 +3,25 @@
       "id": 1,
       "name": "Jessica Book",
       "cargo": "UX/UI Designer",
-      "image": "assets/img/disenador-1.jpg"
+      "image": "https://jopardor.github.io/anchor-site/assets/img/disenador-1.jpg"
   },
   {
       "id": 2,
       "name": "Camila Linares",
       "cargo": "Product Designer",
-      "image": "assets/img/disenador-2.jpg"
+      "image": "https://jopardor.github.io/anchor-site/assets/img/disenador-2.jpg"
   },
   {
     "id": 3,
     "name": "Sebastián Cook",
     "cargo": "Fotógrafo",
-    "image": "assets/img/disenador-3.jpg"
+    "image": "https://jopardor.github.io/anchor-site/assets/img/disenador-3.jpg"
   },
   {
       "id": 4,
       "name": "Amanda Lynn",
       "cargo": "Web Developer",
-      "image": "assets/img/disenador-4.jpg"
+      "image": "https://jopardor.github.io/anchor-site/assets/img/disenador-4.jpg"
   }
   
 ]
